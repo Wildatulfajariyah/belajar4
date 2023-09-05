@@ -3,7 +3,7 @@ package com.wilda.belajar4;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+int = 20;
 public class MainActivity extends AppCompatActivity {
 
     @Override
